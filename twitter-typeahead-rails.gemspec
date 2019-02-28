@@ -13,7 +13,7 @@ Gem::Specification.new do |gem|
   gem.homepage      = "https://github.com/yourabi/twitter-typeahead-rails"
 
   gem.add_dependency             'railties',   '>= 3.1'
-  gem.add_dependency             'actionpack', '>= 5.2.2'
+  gem.add_dependency             'actionpack', '>= 4.2.11'
   gem.add_dependency             'jquery-rails'
   
   gem.add_development_dependency 'rails', '>= 3.1'
